@@ -7,6 +7,7 @@
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;We retrain the final few layers of the ImageNet model with different datasets of varying proportions of animal and non-animal imagery. For example, comparing three datasets containing: 1) only animal images, 2) a proportional amount of animal and non-animal images, and 3) an oversampled non-animal classification group. With these datasets of varying proportions of classifications, we compare the training time, loss, and accuracy of the networks tested on similar animal datasets such as OpenImages, CIFAR, Visual Genome, and COCO.
 
 
+
 ---
 
 [(•̀ᴗ•́)و ̑̑](https://glitch.com/@bess)

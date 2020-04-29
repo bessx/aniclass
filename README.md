@@ -10,4 +10,4 @@
 
 ---
 
-[(•̀ᴗ•́)و ̑̑](https://glitch.com/@bess)
+[(•̀ᴗ•́)و ̑̑](http://git.bess.ai/aniclass)

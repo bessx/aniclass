@@ -1,4 +1,4 @@
-# Performance Comparison of Convolutional neural networks for animal classification on disproportionate datasets 
+# Performance Comparison of Convolutional Neural Networks for Animal Classification on Disproportionate Datasets 
 
 **by [Adam Bess](https://github.com/bessx/), Blessing Ajibero, Cheng Yan, Jacques Comeaux, Jesse Dai, Josh Duke, Mahfuza Khatun, Sweta Ghimire**
 
